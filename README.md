@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 <!--
+### Владею инструментами
+Brain, Git, MySQL, Draw.io, XMind, Enterprise Architect, Postman, VSCode, PyCharm, Bash, Windows, Linux
+
+-->
+
+<!--
 **gitscure/gitscure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
