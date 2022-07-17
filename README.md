@@ -1,6 +1,9 @@
-### Hi there 👋
+### Привет!
+Я **Кирилл Пономарёв**:
+- имею 10+ лет анализа требований и разработки документации на автоматизированные системы объектов энергетики,
+- развиваюсь в направлении системного анализа.
 
-### Владею инструментами
+### Используемые инструменты
 [<image width="40px" alt="Brain" src="/icons/brain.png"/>](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D0%BC%D0%BE%D0%B7%D0%B3_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0)
 [<image width="40px" alt="Git" src="/icons/git.png"/>](https://git-scm.com/)
 [<image width="40px" alt="MySQL" src="/icons/mysql.png"/>](https://www.mysql.com/)
@@ -13,7 +16,7 @@
 [<image width="40px" alt="Bash" src="/icons/bash.png"/>](https://tiswww.case.edu/php/chet/bash/bashtop.html)
 [<image width="40px" alt="Linux" src="/icons/linux.png"/>](https://kernel.org/)
 
-### Мои работы
+### Примеры моих работ
 - [Задание по теме "Методы сбора требований" (Нетология)](/interview/)
 - [Задание по теме "Методы формализации требований" (Нетология)](/requirements/)
 - [Задание по теме "User stories" (Нетология)](/user-stories/)
@@ -29,17 +32,6 @@
 - [Основы разработки (Нетология)](/certificates/netology-development.pdf)
 - [Интерактивный тренажер по SQL (Stepik)](/certificates/stepik-sql.pdf)
 
-<!--
-**gitscure/gitscure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Связаться со мной
+[<image width="40px" alt="Telegram" src="/icons/telegram.png"/>](https://t.me/s_cure)
+[<image width="40px" alt="Email" src="/icons/email.png"/>](mailto:ponomarevkm@gmail.com)
