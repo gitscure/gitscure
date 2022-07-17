@@ -6,18 +6,19 @@
 [<image width="40px" alt="MySQL" src="/icons/mysql.png"/>](https://www.mysql.com/)
 [<image width="40px" alt="Draw.io" src="/icons/draw_io.png"/>](https://www.draw.io/)
 [<image width="40px" alt="XMind" src="/icons/xmind.png"/>](https://www.xmind.net/)
-[<image width="40px" alt="Enterprise Architect" src="/icons/ea.png"/>](https://www.sparxsystems.com/)
+[<image width="40px" alt="Enterprise Architect" src="/icons/ea.png"/>](https://sparxsystems.com/products/ea/)
 [<image width="40px" alt="Postman" src="/icons/postman.png"/>](https://www.postman.com/)
 [<image width="40px" alt="VSCode" src="/icons/vscode.png"/>](https://code.visualstudio.com/)
 [<image width="40px" alt="PyCharm" src="/icons/pycharm.png"/>](https://www.jetbrains.com/pycharm/)
 [<image width="40px" alt="Bash" src="/icons/bash.png"/>](https://tiswww.case.edu/php/chet/bash/bashtop.html)
 [<image width="40px" alt="Linux" src="/icons/linux.png"/>](https://kernel.org/)
 
-### Мои проекты
-- [Итоговая работа по курсу "Анализ требований" (Нетология)](/requirements-final/)
+### Мои работы
 - [Задание по теме "Методы сбора требований" (Нетология)](/interview/)
 - [Задание по теме "Методы формализации требований" (Нетология)](/requirements/)
 - [Задание по теме "User stories" (Нетология)](/user-stories/)
+- [Задание по теме "Согласование и управление изменениями требований" (Нетология)](/requirements-management/)
+- [Итоговая работа по курсу "Анализ требований" (Нетология)](/requirements-final/)
 - [Пример спецификации требований к промышленному контроллеру](/controller-requirements/)
 - [Телеграм-бот, позволяющий узнать баланс транспортной карты Стрелка](https://github.com/gitscure/strelkaCardBot.git)
 
