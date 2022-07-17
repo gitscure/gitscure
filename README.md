@@ -13,7 +13,7 @@
 [<image width="40px" alt="Postman" src="/icons/postman.png"/>](https://www.postman.com/)
 [<image width="40px" alt="VSCode" src="/icons/vscode.png"/>](https://code.visualstudio.com/)
 [<image width="40px" alt="PyCharm" src="/icons/pycharm.png"/>](https://www.jetbrains.com/pycharm/)
-[<image width="40px" alt="Bash" src="/icons/bash.png"/>](https://tiswww.case.edu/php/chet/bash/bashtop.html)
+[<image width="40px" alt="Bash" src="/icons/bash.png"/>](https://www.gnu.org/software/bash/)
 [<image width="40px" alt="Linux" src="/icons/linux.png"/>](https://kernel.org/)
 
 ### Примеры моих работ
