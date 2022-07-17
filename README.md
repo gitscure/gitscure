@@ -6,7 +6,7 @@
 [<image width="40px" alt="MySQL" src="/icons/mysql.png"/>](https://www.mysql.com/)
 [<image width="40px" alt="Draw.io" src="/icons/draw_io.png"/>](https://www.draw.io/)
 [<image width="40px" alt="XMind" src="/icons/xmind.png"/>](https://www.xmind.net/)
-[<image width="40px" alt="Enterprise Architect" src="/icons/ea.png"/>](https://www.sparxsystems.com/)
+[<image width="40px" alt="Enterprise Architect" src="/icons/ea.png"/>](https://sparxsystems.com/products/ea/)
 [<image width="40px" alt="Postman" src="/icons/postman.png"/>](https://www.postman.com/)
 [<image width="40px" alt="VSCode" src="/icons/vscode.png"/>](https://code.visualstudio.com/)
 [<image width="40px" alt="PyCharm" src="/icons/pycharm.png"/>](https://www.jetbrains.com/pycharm/)
