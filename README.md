@@ -13,12 +13,12 @@
 [<image width="40px" alt="Bash" src="/icons/bash.png"/>](https://tiswww.case.edu/php/chet/bash/bashtop.html)
 [<image width="40px" alt="Linux" src="/icons/linux.png"/>](https://kernel.org/)
 
-### Мои проекты
-- [Итоговая работа по курсу "Анализ требований" (Нетология)](/requirements-final/)
+### Мои работы
 - [Задание по теме "Методы сбора требований" (Нетология)](/interview/)
 - [Задание по теме "Методы формализации требований" (Нетология)](/requirements/)
 - [Задание по теме "User stories" (Нетология)](/user-stories/)
 - [Задание по теме "Согласование и управление изменениями требований" (Нетология)](/requirements-management/)
+- [Итоговая работа по курсу "Анализ требований" (Нетология)](/requirements-final/)
 - [Пример спецификации требований к промышленному контроллеру](/controller-requirements/)
 - [Телеграм-бот, позволяющий узнать баланс транспортной карты Стрелка](https://github.com/gitscure/strelkaCardBot.git)
 
