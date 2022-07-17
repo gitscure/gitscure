@@ -10,4 +10,10 @@
 
 ---
 
+### Решение:
+
+В ходе работы были проанализированы состояния требований, которые необходимо учесть, а также разработана UML-диаграмма активности для иллюстрации процесса.
+
+Для разработки UML-диаграммы использовался [Enterprise Architect](https://sparxsystems.com/products/ea/).
+
 ![requirements-management](./requirements-management.png)
